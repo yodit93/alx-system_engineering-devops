@@ -8,3 +8,4 @@ a script that displays the third line of the file iacta.
 
 a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School.
 a script that writes into the file ls_cwd_content the result of the command ls -la. 
+a script that duplicates the last line of the file iacta.
