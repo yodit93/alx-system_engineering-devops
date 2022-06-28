@@ -1,0 +1,6 @@
+#!/bin/bashcase M-x in
+C-h)
+    
+    ;;
+    
+cd -
